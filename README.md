@@ -1,3 +1,3 @@
 
-![Emmanue's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelOlofintuyi&show_icons=true&theme=merko)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelOlofintuyi)](https://github.com/anuraghazra/github-readme-stats)
 
